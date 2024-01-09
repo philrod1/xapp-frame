@@ -15,7 +15,7 @@ import (
 	cr "github.com/go-openapi/runtime/client"
 	"github.com/go-openapi/strfmt"
 
-	"gerrit.o-ran-sc.org/r/ric-plt/xapp-frame/pkg/clientmodel"
+	"github.com/philrod1/xapp-frame/pkg/clientmodel"
 )
 
 // NewSubscribeParams creates a new SubscribeParams object

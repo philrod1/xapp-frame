@@ -30,7 +30,7 @@ import (
 	"strings"
 	"time"
 
-	"gerrit.o-ran-sc.org/r/ric-plt/xapp-frame/pkg/models"
+	"github.com/philrod1/xapp-frame/pkg/models"
 	"github.com/gorilla/mux"
 	"github.com/prometheus/client_golang/prometheus"
 	"github.com/prometheus/common/expfmt"

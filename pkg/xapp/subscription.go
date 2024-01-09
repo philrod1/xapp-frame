@@ -34,14 +34,14 @@ import (
 	"github.com/go-openapi/strfmt"
 	"github.com/spf13/viper"
 
-	apiclient "gerrit.o-ran-sc.org/r/ric-plt/xapp-frame/pkg/clientapi"
-	apicommon "gerrit.o-ran-sc.org/r/ric-plt/xapp-frame/pkg/clientapi/common"
-	apimodel "gerrit.o-ran-sc.org/r/ric-plt/xapp-frame/pkg/clientmodel"
+	apiclient "github.com/philrod1/xapp-frame/pkg/clientapi"
+	apicommon "github.com/philrod1/xapp-frame/pkg/clientapi/common"
+	apimodel "github.com/philrod1/xapp-frame/pkg/clientmodel"
 
-	"gerrit.o-ran-sc.org/r/ric-plt/xapp-frame/pkg/models"
-	"gerrit.o-ran-sc.org/r/ric-plt/xapp-frame/pkg/restapi"
-	"gerrit.o-ran-sc.org/r/ric-plt/xapp-frame/pkg/restapi/operations"
-	"gerrit.o-ran-sc.org/r/ric-plt/xapp-frame/pkg/restapi/operations/common"
+	"github.com/philrod1/xapp-frame/pkg/models"
+	"github.com/philrod1/xapp-frame/pkg/restapi"
+	"github.com/philrod1/xapp-frame/pkg/restapi/operations"
+	"github.com/philrod1/xapp-frame/pkg/restapi/operations/common"
 )
 
 type SubscriptionHandler func(interface{}) (*models.SubscriptionResponse, int)

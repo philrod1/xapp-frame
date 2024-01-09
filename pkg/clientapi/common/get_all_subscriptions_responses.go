@@ -12,7 +12,7 @@ import (
 	"github.com/go-openapi/runtime"
 	"github.com/go-openapi/strfmt"
 
-	"gerrit.o-ran-sc.org/r/ric-plt/xapp-frame/pkg/clientmodel"
+	"github.com/philrod1/xapp-frame/pkg/clientmodel"
 )
 
 // GetAllSubscriptionsReader is a Reader for the GetAllSubscriptions structure.

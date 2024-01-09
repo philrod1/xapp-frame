@@ -19,8 +19,8 @@ import (
 	"github.com/go-openapi/strfmt"
 	"github.com/go-openapi/swag"
 
-	"gerrit.o-ran-sc.org/r/ric-plt/xapp-frame/pkg/restapi/operations/common"
-	"gerrit.o-ran-sc.org/r/ric-plt/xapp-frame/pkg/restapi/operations/xapp"
+	"github.com/philrod1/xapp-frame/pkg/restapi/operations/common"
+	"github.com/philrod1/xapp-frame/pkg/restapi/operations/xapp"
 )
 
 // NewXappFrameworkAPI creates a new XappFramework instance

@@ -10,8 +10,8 @@ import (
 	httptransport "github.com/go-openapi/runtime/client"
 	"github.com/go-openapi/strfmt"
 
-	"gerrit.o-ran-sc.org/r/ric-plt/xapp-frame/pkg/clientapi/common"
-	"gerrit.o-ran-sc.org/r/ric-plt/xapp-frame/pkg/clientapi/xapp"
+	"github.com/philrod1/xapp-frame/pkg/clientapi/common"
+	"github.com/philrod1/xapp-frame/pkg/clientapi/xapp"
 )
 
 // Default r i c subscription HTTP client.

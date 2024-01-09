@@ -10,9 +10,9 @@ import (
 	runtime "github.com/go-openapi/runtime"
 	middleware "github.com/go-openapi/runtime/middleware"
 
-	"gerrit.o-ran-sc.org/r/ric-plt/xapp-frame/pkg/restapi/operations"
-	"gerrit.o-ran-sc.org/r/ric-plt/xapp-frame/pkg/restapi/operations/common"
-	"gerrit.o-ran-sc.org/r/ric-plt/xapp-frame/pkg/restapi/operations/xapp"
+	"github.com/philrod1/xapp-frame/pkg/restapi/operations"
+	"github.com/philrod1/xapp-frame/pkg/restapi/operations/common"
+	"github.com/philrod1/xapp-frame/pkg/restapi/operations/xapp"
 )
 
 //go:generate swagger generate server --target ../../pkg --name XappFramework --spec ../../api/xapp_rest_api.yaml --exclude-main

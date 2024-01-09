@@ -1,4 +1,4 @@
-module gerrit.o-ran-sc.org/r/ric-plt/xapp-frame
+module github.com/philrod1/xapp-frame
 
 go 1.18
 

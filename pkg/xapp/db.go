@@ -24,7 +24,7 @@ import (
 	rnibentities "gerrit.o-ran-sc.org/r/ric-plt/nodeb-rnib.git/entities"
 	rnibreader "gerrit.o-ran-sc.org/r/ric-plt/nodeb-rnib.git/reader"
 	sdl "gerrit.o-ran-sc.org/r/ric-plt/sdlgo"
-	rnibwriter "gerrit.o-ran-sc.org/r/ric-plt/xapp-frame/pkg/rnib"
+	rnibwriter "github.com/philrod1/xapp-frame/pkg/rnib"
 	"sync"
 	"time"
 )
