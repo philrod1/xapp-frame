@@ -36,8 +36,6 @@ cloud.google.com/go/storage v1.8.0/go.mod h1:Wv1Oy7z6Yz3DshWRJFhqM/UCfaWIRTdp0RX
 cloud.google.com/go/storage v1.10.0/go.mod h1:FLPqc6j+Ki4BU591ie1oL6qBQGu2Bl/tZ9ullr3+Kg0=
 cloud.google.com/go/storage v1.14.0/go.mod h1:GrKmX003DSIwi9o29oFT7YDnHYwZoctc3fOKtUw0Xmo=
 dmitri.shuralyov.com/gpu/mtl v0.0.0-20190408044501-666a987793e9/go.mod h1:H6x//7gZCb22OMCxBHrMx7a5I7Hp++hsVxbQ4BYO7hU=
-gerrit.o-ran-sc.org/r/com/golog.git v0.0.2 h1:Ix6SgFuzd6yW6Ur6+qDlGhDO65UYs8PiIkeAL1VaQ2o=
-gerrit.o-ran-sc.org/r/com/golog.git v0.0.2/go.mod h1:A7hUL52YQSO4dFIZNcj76XQ09C9PftAe3LyL7kqBnok=
 gerrit.o-ran-sc.org/r/ric-plt/alarm-go.git/alarm v0.5.14 h1:7xsI9lMKRQ4693xZ30kpF5SGVinMbTb7MmYJtZ0VZ4o=
 gerrit.o-ran-sc.org/r/ric-plt/alarm-go.git/alarm v0.5.14/go.mod h1:4bLQ7iuVwDrQPdgv5CgSwJJQpYmWqt6cVPp5v7wbhbc=
 gerrit.o-ran-sc.org/r/ric-plt/nodeb-rnib.git/common v1.2.1 h1:3FFbXx55BODThXfyWAiz6cPXVELXFICDQUmJi13EoxM=
@@ -279,6 +277,8 @@ github.com/opentracing/opentracing-go v1.2.0/go.mod h1:GxEUsuufX4nBwe+T+Wl9TAgYr
 github.com/pelletier/go-toml v1.7.0/go.mod h1:vwGMzjaWMwyfHwgIBhI2YUM4fB6nL6lVAvS1LBMMhTE=
 github.com/pelletier/go-toml/v2 v2.0.6 h1:nrzqCb7j9cDFj2coyLNLaZuJTLjWjlaz6nvTvIwycIU=
 github.com/pelletier/go-toml/v2 v2.0.6/go.mod h1:eumQOmlWiOPt5WriQQqoM5y18pDHwha2N+QD+EUNTek=
+github.com/philrod1/golog v1.0.0 h1:J2Kl0Ju+Q4IXXDpTKlw0IYxEMiFmIn4QeeJiKF4Fk7c=
+github.com/philrod1/golog v1.0.0/go.mod h1:k5DNNRNhDExtS0ob17SARqlPyilm0i3S8gbwm/Rng0A=
 github.com/pkg/errors v0.8.0/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
 github.com/pkg/errors v0.8.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
 github.com/pkg/errors v0.9.1 h1:FEBLx1zS214owpjy7qsBeixbURkuhQAwrK5UwLGTwt4=
